@@ -1,0 +1,3 @@
+* Norwegian coder
+* Interested in language design
+* Currently mostly writing Java, prevous experience with Simula, C, Haskell, Common Lisp, Perl...
